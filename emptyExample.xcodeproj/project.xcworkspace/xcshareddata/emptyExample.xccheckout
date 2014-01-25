@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>67D3929D-1639-4A5E-9AAC-3BED2CAF8D25</string>
+	<key>IDESourceControlProjectName</key>
+	<string>emptyExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>548480B5-225A-474F-B41B-A793C12BB679</key>
+		<string>https://github.com/JoshuaBatty/ofLividCNTRLR.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>emptyExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>548480B5-225A-474F-B41B-A793C12BB679</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JoshuaBatty/ofLividCNTRLR.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>548480B5-225A-474F-B41B-A793C12BB679</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>548480B5-225A-474F-B41B-A793C12BB679</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofLividCNTRLR</string>
+		</dict>
+	</array>
+</dict>
+</plist>
